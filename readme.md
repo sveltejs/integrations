@@ -49,7 +49,7 @@
 - [single-spa-example](https://github.com/CanopyTax/single-spa-examples/tree/master/src/svelte)
 
 ## Starters
-- [svelte-typescript-webpack-boilerplate](https://github.com/brakmic/Svelte-TypeScript-WebPack-Boilerplate)
+- [svelte-typescript-webpack-starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
 
 ## Resources
 - [Guide](https://svelte.technology/guide)
