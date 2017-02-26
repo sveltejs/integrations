@@ -87,6 +87,7 @@
 ## Community
 - [Gitter](https://gitter.im/sveltejs/svelte)
 - [Twitter](https://twitter.com/sveltejs)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/svelte)
 
 
 <br><br><br><br>
