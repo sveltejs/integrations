@@ -22,6 +22,8 @@
 - [Principles](#principles)
 - [Utilities](#utilities)
 - [Plugins](#plugins)
+  - [Routing](#routing)
+  - [Miscellaneous](#miscellaneous)
 - [Benchmarks](#benchmarks)
 - [Community](#community)
 
