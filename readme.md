@@ -80,6 +80,7 @@
 - [svelte-router](https://github.com/jikkai/svelte-router)
 
 ### Miscellaneous
+- [svelte-custom-elements](https://github.com/sveltejs/svelte-custom-elements) - Turn Svelte components into web components
 - [single-spa-svelte](https://github.com/CanopyTax/single-spa-svelte)
 
 ## Benchmarks
