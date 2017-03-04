@@ -35,6 +35,7 @@
 - [Svelte REPL](https://svelte.technology/repl)
 - [Home Assistant prototype](https://github.com/balloob/home-assistant-svelte-prototype)
 - [TodoMVC](https://github.com/sveltejs/svelte-todomvc)
+- [svelte-hackernews](https://github.com/sveltejs/svelte-hackernews) - [An Hacker News clone](https://svelte-hn.now.sh) that _“is designed to test Svelte's ideas and see if there are any essential features that we're missing, and to act as an example for people looking to build their own Svelte apps. Consider it a perpetual work-in-progress.”_
 - [svelte-rollup-ssr-bundle-demo](https://github.com/Rich-Harris/svelte-ssr-bundle) - Server-side rendering demo
 - [charpeni/svelte-example](https://github.com/charpeni/svelte-example)
 - [EmilTholin/svelte-test](https://github.com/EmilTholin/svelte-test)
