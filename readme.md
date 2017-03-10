@@ -48,6 +48,8 @@
 - [svelte-markdown-editor](https://github.com/Garrett-/svelte-markdown-editor)
 - [svelte-routing](https://github.com/Franksey/svelte-routing)
 - [single-spa-example](https://github.com/CanopyTax/single-spa-examples/tree/master/src/svelte)
+- [svg-example](https://svelte.technology/repl/?version=1.11.1&gist=bd5cbf8909a5bb935620ab8f4ec899e8)
+- [svg-ssr-example](https://svelte-d3-arc-demo.surge.sh)
 
 ## Starters
 - [svelte-typescript-webpack-starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
@@ -63,6 +65,7 @@
 ## Principles
 - [De-duplication](https://github.com/sveltejs/svelte/pull/215) - [Allows](https://github.com/sveltejs/svelte/issues/9) [for](https://github.com/sveltejs/svelte/issues/203) [non-standalone](https://github.com/sveltejs/svelte/issues/67) [components](https://www.reddit.com/r/javascript/comments/5fcwhz/svelte_the_magical_disappearing_ui_framework/dajexmg/) to avoid duplication
 - [_**Opt-in**_ Two-way Data Binding](https://github.com/sveltejs/svelte/issues/54)
+- [First-class SVG support (including SSR)](https://twitter.com/sveltejs/status/839585697019363328)
 
 ## Utilities
 
