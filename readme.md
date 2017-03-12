@@ -6,9 +6,9 @@
 
 [Svelte](https://svelte.technology) is among [the fastest libraries](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html) to build user interfaces. Contrary to React, Vue, Inferno — Svelte has no runtime. Components are written using HTML, CSS and JavaScript (plus a few extra bits you can learn in under 5 minutes). During your build process Svelte compiles them into tiny, standalone/deduplicated JavaScript modules. With static analysis, Svelte makes sure that the browser does as little work as possible. Other than being fast and weightless, Svelte has [the lowest memory footprint after hand-written vanilla JavaScript](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html). Svelte can render on both client and server.
 <br><br>
-<h3 align="center"><a href="https://svelte.technology/repl/?version=1.6.11&gist=c80ee9ec68fefa93617dfc40400851f5"><img src="example_counter_html.png" width="435.5"><img src="example_counter_js.png" width="134"></a></h3>
+<h3 align="center"><a href="https://svelte.technology/repl/?version=1&gist=c80ee9ec68fefa93617dfc40400851f5"><img src="example_counter_html.png" width="435.5"><img src="example_counter_js.png" width="134"></a></h3>
 
-<p align="center"><a href="https://svelte.technology/repl/?version=1.6.11&gist=c80ee9ec68fefa93617dfc40400851f5">Open in REPL</a> — <a href="https://twitter.com/sveltejs/status/835273714619002880">Context</a></p>
+<p align="center"><a href="https://svelte.technology/repl/?version=1&gist=c80ee9ec68fefa93617dfc40400851f5">Open in REPL</a> — <a href="https://twitter.com/sveltejs/status/835273714619002880">Context</a></p>
 
 <br><br><br><br>
 
