@@ -78,6 +78,7 @@
 - [metalsmith-svelte](https://github.com/shinnn/metalsmith-svelte)
 - [system-svelte](https://github.com/CanopyTax/system-svelte) - System.js plugin
 - [meteor-svelte](https://github.com/meteor-svelte/meteor-svelte)
+- [svelte-rack](https://github.com/bordeeinc/svelte-rack) - Rack middleware to compile components to Javascript
 
 ## Plugins
 ### Routing
