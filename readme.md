@@ -78,6 +78,7 @@
 - [metalsmith-svelte](https://github.com/shinnn/metalsmith-svelte)
 - [system-svelte](https://github.com/CanopyTax/system-svelte) - System.js plugin
 - [meteor-svelte](https://github.com/meteor-svelte/meteor-svelte)
+- [svelte-ruby](https://github.com/bordeeinc/svelte-ruby) - Ruby Gem wrapper for the compiler
 - [svelte-rack](https://github.com/bordeeinc/svelte-rack) - Rack middleware to compile components to Javascript
 
 ## Plugins
@@ -86,7 +87,7 @@
 - [svelte-router](https://github.com/jikkai/svelte-router)
 
 ### Miscellaneous
-- [svelte-custom-elements](https://github.com/sveltejs/svelte-custom-elements) - Turn Svelte components into web components
+- [svelte-custom-elements](https://github.com/sveltejs/svelte-custom-elements) - Turn components into web components
 - [single-spa-svelte](https://github.com/CanopyTax/single-spa-svelte)
 
 ## Components
