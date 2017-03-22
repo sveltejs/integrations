@@ -24,6 +24,7 @@
 - [Plugins](#plugins)
   - [Routing](#routing)
   - [Miscellaneous](#miscellaneous)
+- [Components](#components)
 - [Benchmarks](#benchmarks)
 - [Community](#community)
 
@@ -86,6 +87,9 @@
 ### Miscellaneous
 - [svelte-custom-elements](https://github.com/sveltejs/svelte-custom-elements) - Turn Svelte components into web components
 - [single-spa-svelte](https://github.com/CanopyTax/single-spa-svelte)
+
+## Components
+- [svelte-flat-ui](https://github.com/transpiling/svelte-flat-ui)
 
 ## Benchmarks
 - [js-frameworks-benchmark-5](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html)
