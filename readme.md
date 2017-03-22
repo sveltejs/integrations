@@ -71,7 +71,7 @@
 ## Utilities
 
 - [svelte-cli](https://github.com/sveltejs/svelte-cli)
-- [svelte-webpack-loader](https://github.com/sveltejs/svelte-loader)
+- [svelte-loader](https://github.com/sveltejs/svelte-loader) - Webpack loader
 - [svelte-rollup-plugin](https://github.com/rollup/rollup-plugin-svelte)
 - [sveltify](https://github.com/tehshrike/sveltify) - Browserify transform
 - [gulp-svelte](https://github.com/shinnn/gulp-svelte)
