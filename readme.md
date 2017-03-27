@@ -49,8 +49,9 @@
 - [svelte-markdown-editor](https://github.com/Garrett-/svelte-markdown-editor)
 - [svelte-routing](https://github.com/Franksey/svelte-routing)
 - [single-spa-example](https://github.com/CanopyTax/single-spa-examples/tree/master/src/svelte)
-- [svg-example](https://svelte.technology/repl/?version=1.11.1&gist=bd5cbf8909a5bb935620ab8f4ec899e8)
+- [svg-example](https://svelte.technology/repl/?version=1&gist=bd5cbf8909a5bb935620ab8f4ec899e8)
 - [svg-ssr-example](https://svelte-d3-arc-demo.surge.sh)
+- [parallax-effects-example](https://svelte.technology/repl?version=1&gist=cebfbce5e88fc50909d708f10a3d71b1) - No libraries, no JS to write, purely declarative ([tweet with video](https://twitter.com/sveltejs/status/846134444306157568))
 
 ## Starters
 - [svelte-typescript-webpack-starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
