@@ -52,6 +52,7 @@
 - [svg-example](https://svelte.technology/repl/?version=1&gist=bd5cbf8909a5bb935620ab8f4ec899e8)
 - [svg-ssr-example](https://svelte-d3-arc-demo.surge.sh)
 - [parallax-effects-example](https://svelte.technology/repl?version=1&gist=cebfbce5e88fc50909d708f10a3d71b1) - No libraries, no JS to write, purely declarative ([tweet with video](https://twitter.com/sveltejs/status/846134444306157568))
+- [Using accessors to get and set Svelte component data (a là Vue)](http://stackoverflow.com/questions/43101214/use-getters-setters-in-svelte-custom-methods/43102351#43102351) - [(repository with example)](https://github.com/Rich-Harris/svelte-accessors-demo)
 
 ## Starters
 - [svelte-typescript-webpack-starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
