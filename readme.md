@@ -69,6 +69,7 @@
 - [De-duplication](https://github.com/sveltejs/svelte/pull/215) - [Allows](https://github.com/sveltejs/svelte/issues/9) [for](https://github.com/sveltejs/svelte/issues/203) [non-standalone](https://github.com/sveltejs/svelte/issues/67) [components](https://www.reddit.com/r/javascript/comments/5fcwhz/svelte_the_magical_disappearing_ui_framework/dajexmg/) to avoid duplication
 - [_**Opt-in**_ Two-way Data Binding](https://github.com/sveltejs/svelte/issues/54)
 - [First-class SVG support (including SSR)](https://twitter.com/sveltejs/status/839585697019363328)
+- [Media Elements Bindings](https://svelte.technology/repl?version=1&example=binding-media-elements) - Makes it easy to build custom controls for `<audio>` and `<video>`
 
 ## Utilities
 
