@@ -142,7 +142,7 @@
   Bindings are declared with `bind:[attribute]`. As well as DOM elements, you can bind to component data properties. [It 
   is optional.](https://github.com/sveltejs/svelte/issues/54)
   
-#### [SVG support](https://twitter.com/sveltejs/status/839585697019363328)
+#### [SVG Support](https://twitter.com/sveltejs/status/839585697019363328)
   First-class SVG support, including SSR.
 
 #### [Media Elements Bindings](https://svelte.technology/repl?version=1&example=binding-media-elements)
