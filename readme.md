@@ -19,10 +19,10 @@
   - [REPL](#repl)
   - [Apps](#apps)
   - [PoCs](#pocs)
+- [Principles](#principles)
 - [Starters](#starters)
 - [Resources](#resources)
 - [Articles](#articles)
-- [Principles](#principles)
 - [Utilities](#utilities)
 - [Plugins](#plugins)
   - [Routing](#routing)
@@ -78,7 +78,7 @@
 - [Markdown Editor](https://github.com/Garrett-/svelte-markdown-editor)
 
 ### PoCs
-- [Server-side Rendering with Rollup](https://github.com/Rich-Harris/svelte-ssr-bundle)
+- [Server-Side Rendering with Rollup](https://github.com/Rich-Harris/svelte-ssr-bundle)
 - [State Management with Redux](https://github.com/lukechinworth/codenames/tree/svelte)
 - [With TypeScript](https://github.com/MiYogurt/svelte-with-ts)
 - [Routing by Andorbal](https://github.com/Andorbal/svelte-router-example)
@@ -86,8 +86,75 @@
 - [Routing by Oren](https://github.com/oren/svelte-router-example)
 - [Accessors (a là Vue)](https://github.com/Rich-Harris/svelte-accessors-demo) - [(StackOverflow Question)](http://stackoverflow.com/questions/43101214/use-getters-setters-in-svelte-custom-methods/43102351#43102351)
 
+
+## Principles
+#### [No Runtime](https://svelte.technology/guide#what-is-svelte-)
+  Rather than interpreting your application code at run time, your app is converted into ideal JavaScript at build time.
+  
+#### [Components](https://svelte.technology/guide#understanding-svelte-components) with a [Simple API](https://svelte.technology/guide#component-api) and [Lifecycle Hooks](https://svelte.technology/guide#lifecycle-hooks)
+  Small number of methods you can use to control a component, in addition to any custom methods you add.
+
+#### [HTML, CSS & JS](https://svelte.technology/guide#template-syntax)
+  Components are built on HTML, CSS and JavaScript. There's very little extra stuff to learn.
+
+#### [Scoped Styles](https://svelte.technology/guide#scoped-styles)
+  Components are self-contained and reusable in different contexts. CSS is scoped by default.
+
+#### [Computed Properties](https://svelte.technology/guide#computed-properties)
+  Often, your program will use values that depend on other values – for example, you might have a filtered list, which 
+  depends on both the list and the filter. Svelte allows you to express these dependencies in computed properties, which are recalculated whenever those dependencies change.
+ 
+#### [Helpers](https://svelte.technology/guide#helpers)
+  Simple way to use functions within a component.
+
+#### [Methods](https://svelte.technology/guide#custom-methods)
+  Customize a component with your own methods.
+
+#### [Namespaces](https://svelte.technology/guide#namespaces)
+  Components are assumed to be in the HTML namespace. Svelte allows to specify the namespace so that you can nest 
+  SVG-based components.
+  
+#### [Nested Components](https://svelte.technology/guide#yield-tags)
+  Svelte components can contain other Svelte components.
+
+#### [`<:Self>`](https://svelte.technology/guide#-self-tags)
+  Embed a component within itself.
+
+#### [`<:Window>`](https://svelte.technology/guide#-window-tags)
+  A convenient way to declaratively add event listeners to `window`.
+
+#### [Event Handlers](https://svelte.technology/guide#event-handlers)
+  Tag-based event handlers with the `on:[event]` syntax.
+
+#### [Custom Event Handlers](https://svelte.technology/guide#custom-event-handlers)
+  Add custom event handlers like `longpress`.
+
+#### [Component Events](https://svelte.technology/guide#component-events)
+  An excellent way for nested components to communicate with their parents.
+
+#### [Refs](https://svelte.technology/guide#refs)
+  Store a reference to particular DOM nodes or components with `ref:[name]` and access it with `this.refs.[name]`.
+  
+#### [Server-Side Rendering](https://svelte.technology/guide#server-side-rendering)
+  Render Svelte components in Node.
+
+#### [Two-way Binding (Opt-in)](https://svelte.technology/guide#two-way-binding)
+  Bindings are declared with `bind:[attribute]`. As well as DOM elements, you can bind to component data properties. [It 
+  is optional.](https://github.com/sveltejs/svelte/issues/54)
+  
+#### [SVG support](https://twitter.com/sveltejs/status/839585697019363328)
+  First-class SVG support, including SSR.
+
+#### [Media Elements Bindings](https://svelte.technology/repl?version=1&example=binding-media-elements)
+  Makes it easy to build custom controls for `<audio>` and `<video>`.
+
+#### [Deduplication](https://github.com/sveltejs/svelte/pull/215)
+  [Allows](https://github.com/sveltejs/svelte/issues/9) [for](https://github.com/sveltejs/svelte/issues/203) 
+  [non-standalone](https://github.com/sveltejs/svelte/issues/67) components to prevent duplication.
+  
+
 ## Starters
-- [TypeScript and webpack Starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
+- [TypeScript + webpack](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
 
 ## Resources
 - [Guide](https://svelte.technology/guide)
@@ -96,12 +163,6 @@
 ## Articles
 - [Frameworks without the framework: why didn't we think of this sooner?](https://svelte.technology/blog/frameworks-without-the-framework/) - by Rich Harris, Svelte creator
 - [Interview with Rich Harris](https://survivejs.com/blog/svelte-interview/)
-
-## Principles
-- [De-duplication](https://github.com/sveltejs/svelte/pull/215) - [Allows](https://github.com/sveltejs/svelte/issues/9) [for](https://github.com/sveltejs/svelte/issues/203) [non-standalone](https://github.com/sveltejs/svelte/issues/67) [components](https://www.reddit.com/r/javascript/comments/5fcwhz/svelte_the_magical_disappearing_ui_framework/dajexmg/) to avoid duplication
-- [_**Opt-in**_ Two-way Data Binding](https://github.com/sveltejs/svelte/issues/54)
-- [First-class SVG support (including SSR)](https://twitter.com/sveltejs/status/839585697019363328)
-- [Media Elements Bindings](https://svelte.technology/repl?version=1&example=binding-media-elements) - Makes it easy to build custom controls for `<audio>` and `<video>`
 
 ## Utilities
 
