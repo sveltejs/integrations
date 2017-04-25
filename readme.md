@@ -16,6 +16,9 @@
 ## Contents
 
 - [Examples](#examples)
+  - [REPL](#repl)
+  - [Apps](#apps)
+  - [PoCs](#pocs)
 - [Starters](#starters)
 - [Resources](#resources)
 - [Articles](#articles)
@@ -33,29 +36,58 @@
 
 
 ## Examples
-- [Svelte REPL](https://svelte.technology/repl)
-- [Home Assistant prototype](https://github.com/balloob/home-assistant-svelte-prototype)
+### REPL
+#### Basics
+- [Hello World](https://svelte.technology/repl?version=1&example=hello-world)
+- [If Blocks](https://svelte.technology/repl?version=1&example=if-blocks)
+- [Each Blocks](https://svelte.technology/repl?version=1&example=each-blocks)
+- [Scoped Styles](https://svelte.technology/repl?version=1&example=scoped-styles)
+
+#### Two-way Bindings
+- [Text Input](https://svelte.technology/repl?version=1&example=binding-input-text)
+- [Textarea](https://svelte.technology/repl?version=1&example=binding-textarea)
+- [Checkbox Input](https://svelte.technology/repl?version=1&example=binding-input-checkbox)
+- [Media Elements](https://svelte.technology/repl?version=1&example=binding-media-elements)
+
+#### Nested Components
+- [Self References](https://svelte.technology/repl?version=1&example=self-references)
+- [Nested Components](https://svelte.technology/repl?version=1&example=nested-components)
+
+#### Window Component
+- [Parallax](https://svelte.technology/repl?version=1&example=parallax)
+
+#### SVG
+- [Clock](https://svelte.technology/repl?version=1&example=svg-clock)
+- [Line/Area Chart](https://svelte.technology/repl?version=1&example=line-chart)
+- [Bar Chart](https://svelte.technology/repl?version=1&example=bar-chart)
+- [Scatterplot](https://svelte.technology/repl?version=1&example=scatterplot)
+
+#### GUIs
+- [Counter](https://svelte.technology/repl?version=1&example=7guis-counter)
+- [Temperature Converter](https://svelte.technology/repl?version=1&example=7guis-temperature)
+- [Flight Booker](https://svelte.technology/repl?version=1&example=7guis-flight-booker)
+- [Timer](https://svelte.technology/repl?version=1&example=7guis-timer)
+- [CRUD](https://svelte.technology/repl?version=1&example=7guis-crud)
+- [Circles](https://svelte.technology/repl?version=1&example=7guis-circles)
+
+### Apps
+- [Svelte HN](https://github.com/sveltejs/svelte-hackernews) - [An Hacker News clone](https://svelte-hn.now.sh) that _“is designed to test Svelte's ideas and see if there are any essential features that we're missing, and to act as an example for people looking to build their own Svelte apps.”_
 - [TodoMVC](https://github.com/sveltejs/svelte-todomvc)
-- [svelte-hackernews](https://github.com/sveltejs/svelte-hackernews) - [An Hacker News clone](https://svelte-hn.now.sh) that _“is designed to test Svelte's ideas and see if there are any essential features that we're missing, and to act as an example for people looking to build their own Svelte apps. Consider it a perpetual work-in-progress.”_
-- [svelte-rollup-ssr-bundle-demo](https://github.com/Rich-Harris/svelte-ssr-bundle) - Server-side rendering demo
-- [charpeni/svelte-example](https://github.com/charpeni/svelte-example)
-- [EmilTholin/svelte-test](https://github.com/EmilTholin/svelte-test)
-- [codenames-svelte](https://github.com/lukechinworth/codenames/tree/svelte) - Redux state example
-- [svelte-with-ts](https://github.com/MiYogurt/svelte-with-ts)
-- [svelte-state-renderer](https://github.com/TehShrike/svelte-state-renderer)
-- [Andorbal/svelte-router-example](https://github.com/Andorbal/svelte-router-example)
-- [oren/svelte-router-example](https://github.com/oren/svelte-router-example)
-- [svelte-notepad](https://github.com/Garrett-/svelte-notepad)
-- [svelte-markdown-editor](https://github.com/Garrett-/svelte-markdown-editor)
-- [svelte-routing](https://github.com/Franksey/svelte-routing)
-- [single-spa-example](https://github.com/CanopyTax/single-spa-examples/tree/master/src/svelte)
-- [svg-example](https://svelte.technology/repl/?version=1&gist=bd5cbf8909a5bb935620ab8f4ec899e8)
-- [svg-ssr-example](https://svelte-d3-arc-demo.surge.sh)
-- [parallax-effects-example](https://svelte.technology/repl?version=1&gist=cebfbce5e88fc50909d708f10a3d71b1) - No libraries, no JS to write, purely declarative ([tweet with video](https://twitter.com/sveltejs/status/846134444306157568))
-- [Using accessors to get and set Svelte component data (a là Vue)](http://stackoverflow.com/questions/43101214/use-getters-setters-in-svelte-custom-methods/43102351#43102351) - [(repository with example)](https://github.com/Rich-Harris/svelte-accessors-demo)
+- [Home Assistant](https://github.com/balloob/home-assistant-svelte-prototype)
+- [Notepad](https://github.com/Garrett-/svelte-notepad)
+- [Markdown Editor](https://github.com/Garrett-/svelte-markdown-editor)
+
+### PoCs
+- [Server-side Rendering with Rollup](https://github.com/Rich-Harris/svelte-ssr-bundle)
+- [State Management with Redux](https://github.com/lukechinworth/codenames/tree/svelte)
+- [With TypeScript](https://github.com/MiYogurt/svelte-with-ts)
+- [Routing by Andorbal](https://github.com/Andorbal/svelte-router-example)
+- [Routing by Franksey](https://github.com/Franksey/svelte-routing)
+- [Routing by Oren](https://github.com/oren/svelte-router-example)
+- [Accessors (a là Vue)](https://github.com/Rich-Harris/svelte-accessors-demo) - [(StackOverflow Question)](http://stackoverflow.com/questions/43101214/use-getters-setters-in-svelte-custom-methods/43102351#43102351)
 
 ## Starters
-- [svelte-typescript-webpack-starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
+- [TypeScript and webpack Starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
 
 ## Resources
 - [Guide](https://svelte.technology/guide)
