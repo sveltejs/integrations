@@ -20,6 +20,9 @@
   - [Apps](#apps)
   - [PoCs](#pocs)
 - [Principles](#principles)
+
+<br>
+
 - [Starters](#starters)
 - [Resources](#resources)
 - [Articles](#articles)
@@ -86,6 +89,7 @@
 - [Routing by Oren](https://github.com/oren/svelte-router-example)
 - [Accessors (a là Vue)](https://github.com/Rich-Harris/svelte-accessors-demo) - [(StackOverflow Question)](http://stackoverflow.com/questions/43101214/use-getters-setters-in-svelte-custom-methods/43102351#43102351)
 
+<br><br>
 
 ## Principles
 #### [No Runtime](https://svelte.technology/guide#what-is-svelte-)
@@ -151,7 +155,8 @@
 #### [Deduplication](https://github.com/sveltejs/svelte/pull/215)
   [Allows](https://github.com/sveltejs/svelte/issues/9) [for](https://github.com/sveltejs/svelte/issues/203) 
   [non-standalone](https://github.com/sveltejs/svelte/issues/67) components to prevent duplication.
-  
+ 
+<br><br><br><br>
 
 ## Starters
 - [TypeScript + webpack](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
