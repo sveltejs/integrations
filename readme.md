@@ -163,6 +163,7 @@
 ## Articles
 - [Frameworks without the framework: why didn't we think of this sooner?](https://svelte.technology/blog/frameworks-without-the-framework/) - by Rich Harris, Svelte creator
 - [Interview with Rich Harris](https://survivejs.com/blog/svelte-interview/)
+- [My First Svelte Component](https://medium.com/@u_glow/my-first-svelte-component-on-npm-and-why-its-a-big-deal-c4568f52de97)
 
 ## Utilities
 
