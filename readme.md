@@ -65,6 +65,9 @@
 - [Bar Chart](https://svelte.technology/repl?version=1&example=bar-chart)
 - [Scatterplot](https://svelte.technology/repl?version=1&example=scatterplot)
 
+#### Transitions (Experimental)
+- [Transition Directive](https://svelte.technology/repl?version=1&gist=f557e1b7cd55f9fffce86ce9677f8ae0)
+
 #### GUIs
 - [Counter](https://svelte.technology/repl?version=1&example=7guis-counter)
 - [Temperature Converter](https://svelte.technology/repl?version=1&example=7guis-temperature)
