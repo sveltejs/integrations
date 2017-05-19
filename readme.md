@@ -192,6 +192,7 @@
 - [svelte-router](https://github.com/jikkai/svelte-router)
 
 ### Miscellaneous
+- [svelte-extras](https://github.com/sveltejs/svelte-extras) - Extra methods for components
 - [svelte-custom-elements](https://github.com/sveltejs/svelte-custom-elements) - Turn components into web components
 - [single-spa-svelte](https://github.com/CanopyTax/single-spa-svelte)
 
