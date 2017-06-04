@@ -190,6 +190,7 @@
 ### Routing
 - [abstract-state-router](https://github.com/TehShrike/abstract-state-router)
 - [svelte-router](https://github.com/jikkai/svelte-router)
+- [svelte-querystring-router](https://github.com/TehShrike/svelte-querystring-router)
 
 ### Miscellaneous
 - [svelte-extras](https://github.com/sveltejs/svelte-extras) - Extra methods for components
