@@ -185,6 +185,7 @@
 - [meteor-svelte](https://github.com/meteor-svelte/meteor-svelte)
 - [svelte-ruby](https://github.com/bordeeinc/svelte-ruby) - Ruby Gem wrapper for the compiler
 - [svelte-rack](https://github.com/bordeeinc/svelte-rack) - Rack middleware to compile components to Javascript
+- [svelte-brunch](https://github.com/kazzkiq/svelte-brunch) - Svelte plugin for [Brunch](http://brunch.io/) build-tool
 
 ## Plugins
 ### Routing
