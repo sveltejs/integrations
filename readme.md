@@ -201,6 +201,7 @@
 
 ## Components
 - [svelte-flat-ui](https://github.com/transpiling/svelte-flat-ui)
+- [multicarousel](https://github.com/sciactive/multicarousel)
 
 ## Benchmarks
 - [js-frameworks-benchmark-5](http://www.stefankrause.net/js-frameworks-benchmark5/webdriver-ts/table.html)
