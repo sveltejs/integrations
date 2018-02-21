@@ -32,6 +32,7 @@
   - [Miscellaneous](#miscellaneous)
 - [Components](#components)
 - [Benchmarks](#benchmarks)
+- [Built with Svelte](#built-with-svelte)
 - [Community](#community)
 
 
@@ -208,10 +209,14 @@
 - [svelte-dbmonster](https://github.com/sveltejs/svelte-dbmonster)
 - [isomorphic-ui-benchmarks](https://github.com/sveltejs/isomorphic-ui-benchmarks)
 
+## Built with Svelte
+- [PNotify 4](https://sciactive.github.io/pnotify)
+
 ## Community
 - [Gitter](https://gitter.im/sveltejs/svelte)
 - [Twitter](https://twitter.com/sveltejs)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/svelte)
+
 
 
 <br><br><br><br>
