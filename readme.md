@@ -211,6 +211,7 @@
 
 ## Built with Svelte
 - [PNotify 4](https://sciactive.github.io/pnotify)
+- [Spyfall X](https://spyfallx.com/)
 
 ## Community
 - [Gitter](https://gitter.im/sveltejs/svelte)
