@@ -213,7 +213,7 @@
 - [PNotify 4](https://sciactive.github.io/pnotify)
 
 ## Community
-- [Gitter](https://gitter.im/sveltejs/svelte)
+- [Discord chat](https://discord.gg/yy75DKs)
 - [Twitter](https://twitter.com/sveltejs)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/svelte)
 
