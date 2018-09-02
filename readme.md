@@ -210,8 +210,10 @@
 - [isomorphic-ui-benchmarks](https://github.com/sveltejs/isomorphic-ui-benchmarks)
 
 ## Built with Svelte
+- [Pinafore](https://pinafore.social/) - Mastodon web client
 - [PNotify 4](https://sciactive.github.io/pnotify)
 - [Spyfall X](https://spyfallx.com/)
+- [Tunnelgram](https://tunnelgram.com/) - End-to-end encrypted messenger
 
 ## Community
 - [Discord chat](https://discord.gg/yy75DKs)
