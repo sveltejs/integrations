@@ -214,6 +214,7 @@
 - [PNotify 4](https://sciactive.github.io/pnotify)
 - [Spyfall X](https://spyfallx.com/)
 - [Tunnelgram](https://tunnelgram.com/) - End-to-end encrypted messenger
+- [Vitrine](https://framagit.org/eraviart/vitrine) - An application that dynamically generates the landing pages of a web site using documents & data retrieved from other sites.
 
 ## Community
 - [Discord chat](https://discord.gg/yy75DKs)
