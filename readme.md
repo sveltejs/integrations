@@ -78,7 +78,7 @@
 - [Circles](https://svelte.technology/repl?version=1&example=7guis-circles)
 
 ### Apps
-- [Svelte HN](https://github.com/sveltejs/svelte-hackernews) - [An Hacker News clone](https://hn.svelte.technology/top/1) that _“is designed to test Svelte's ideas and see if there are any essential features that we're missing, and to act as an example for people looking to build their own Svelte apps.”_
+- [Sapper HN](https://github.com/sveltejs/sapper-hacker-news) - [A Hacker News clone](https://hn.svelte.technology), a testing ground for [Sapper](https://sapper.svelte.technology), a work-in-progress app development framework based on Svelte.
 - [TodoMVC](https://github.com/sveltejs/svelte-todomvc)
 - [Home Assistant](https://github.com/balloob/home-assistant-svelte-prototype)
 - [Notepad](https://github.com/Garrett-/svelte-notepad)
