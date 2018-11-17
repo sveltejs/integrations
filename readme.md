@@ -165,6 +165,8 @@
 
 ## Starters
 - [TypeScript + webpack](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter)
+- [Parcel](https://github.com/antony/svelte-seed)
+- [Truffle + Parcel](https://github.com/antony/svelte-box)
 
 ## Resources
 - [Guide](https://svelte.technology/guide)
