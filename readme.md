@@ -42,40 +42,41 @@
 ## Examples
 ### REPL
 #### Basics
-- [Hello World](https://svelte.technology/repl?version=1&example=hello-world)
-- [If Blocks](https://svelte.technology/repl?version=1&example=if-blocks)
-- [Each Blocks](https://svelte.technology/repl?version=1&example=each-blocks)
-- [Scoped Styles](https://svelte.technology/repl?version=1&example=scoped-styles)
+- [Hello World](https://svelte.technology/repl?version=2&demo=hello-world)
+- [If Blocks](https://svelte.technology/repl?version=2&demo=if-blocks)
+- [Each Blocks](https://svelte.technology/repl?version=2&demo=each-blocks)
+- [Scoped Styles](https://svelte.technology/repl?version=2&demo=scoped-styles)
 
 #### Two-way Bindings
-- [Text Input](https://svelte.technology/repl?version=1&example=binding-input-text)
-- [Textarea](https://svelte.technology/repl?version=1&example=binding-textarea)
-- [Checkbox Input](https://svelte.technology/repl?version=1&example=binding-input-checkbox)
-- [Media Elements](https://svelte.technology/repl?version=1&example=binding-media-elements)
+- [Text Input](https://svelte.technology/repl?version=&demo=binding-input-text)
+- [Textarea](https://svelte.technology/repl?version=2&demo=binding-textarea)
+- [Checkbox Input](https://svelte.technology/repl?version=2&demo=binding-input-checkbox)
+- [Media Elements](https://svelte.technology/repl?version=2&demo=binding-media-elements)
 
 #### Nested Components
-- [Self References](https://svelte.technology/repl?version=1&example=self-references)
-- [Nested Components](https://svelte.technology/repl?version=1&example=nested-components)
+- [Self References](https://svelte.technology/repl?version=2&demo=self-references)
+- [Nested Components](https://svelte.technology/repl?version=2&demo=nested-components)
 
 #### Window Component
-- [Parallax](https://svelte.technology/repl?version=1&example=parallax)
+- [Parallax](https://svelte.technology/repl?version=2&demo=parallax)
 
 #### SVG
-- [Clock](https://svelte.technology/repl?version=1&example=svg-clock)
-- [Line/Area Chart](https://svelte.technology/repl?version=1&example=line-chart)
-- [Bar Chart](https://svelte.technology/repl?version=1&example=bar-chart)
-- [Scatterplot](https://svelte.technology/repl?version=1&example=scatterplot)
+- [Clock](https://svelte.technology/repl?version=2&demo=svg-clock)
+- [Line/Area Chart](https://svelte.technology/repl?version=2&demo=line-chart)
+- [Bar Chart](https://svelte.technology/repl?version=2&demo=bar-chart)
+- [Scatterplot](https://svelte.technology/repl?version=2&demo=scatterplot)
 
 #### Transitions (Experimental)
-- [Transition Directive](https://svelte.technology/repl?version=1&gist=f557e1b7cd55f9fffce86ce9677f8ae0)
+- [Fade](https://svelte.technology/repl?version=2&demo=transitions-fade)
+- 
 
 #### GUIs
-- [Counter](https://svelte.technology/repl?version=1&example=7guis-counter)
-- [Temperature Converter](https://svelte.technology/repl?version=1&example=7guis-temperature)
-- [Flight Booker](https://svelte.technology/repl?version=1&example=7guis-flight-booker)
-- [Timer](https://svelte.technology/repl?version=1&example=7guis-timer)
-- [CRUD](https://svelte.technology/repl?version=1&example=7guis-crud)
-- [Circles](https://svelte.technology/repl?version=1&example=7guis-circles)
+- [Counter](https://svelte.technology/repl?version=2&demo=7guis-counter)
+- [Temperature Converter](https://svelte.technology/repl?version=2&demo=7guis-temperature)
+- [Flight Booker](https://svelte.technology/repl?version=2&demo=7guis-flight-booker)
+- [Timer](https://svelte.technology/repl?version=2&demo=7guis-timer)
+- [CRUD](https://svelte.technology/repl?version=2&demo=7guis-crud)
+- [Circles](https://svelte.technology/repl?version=2&demo=7guis-circles)
 
 ### Apps
 - [Svelte HN](https://github.com/sveltejs/svelte-hackernews) - [An Hacker News clone](https://svelte-hn.now.sh) that _“is designed to test Svelte's ideas and see if there are any essential features that we're missing, and to act as an example for people looking to build their own Svelte apps.”_
@@ -153,7 +154,7 @@
 #### [SVG Support](https://twitter.com/sveltejs/status/839585697019363328)
   First-class SVG support, including SSR.
 
-#### [Media Elements Bindings](https://svelte.technology/repl?version=1&example=binding-media-elements)
+#### [Media Elements Bindings](https://svelte.technology/repl?version=2&demo=binding-media-elements)
   Makes it easy to build custom controls for `<audio>` and `<video>`.
 
 #### [Deduplication](https://github.com/sveltejs/svelte/pull/215)
