@@ -154,6 +154,9 @@
 #### [SVG Support](https://twitter.com/sveltejs/status/839585697019363328)
   First-class SVG support, including SSR.
 
+#### [Media Elements Bindings](https://svelte.technology/repl?version=2&demo=binding-media-elements)
+  Makes it easy to build custom controls for `<audio>` and `<video>`.
+
 #### [Deduplication](https://github.com/sveltejs/svelte/pull/215)
   [Allows](https://github.com/sveltejs/svelte/issues/9) [for](https://github.com/sveltejs/svelte/issues/203) 
   [non-standalone](https://github.com/sveltejs/svelte/issues/67) components to prevent duplication.
