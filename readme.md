@@ -89,7 +89,7 @@
 - [Server-Side Rendering with Rollup](https://github.com/Rich-Harris/svelte-ssr-bundle)
 - [State Management with Redux](https://github.com/lukechinworth/codenames/tree/svelte)
 - [With TypeScript](https://github.com/MiYogurt/svelte-with-ts)
-- [Writing .svelte files with typescript](https://github.com/farhan2106/svelte-typescript)
+- [Writing component with typescript](https://github.com/farhan2106/svelte-typescript)
 - [Routing by Andorbal](https://github.com/Andorbal/svelte-router-example)
 - [Routing by Franksey](https://github.com/Franksey/svelte-routing)
 - [Routing by Oren](https://github.com/oren/svelte-router-example)
