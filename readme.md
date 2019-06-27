@@ -21,7 +21,7 @@ Community maintained:
 - [svelte-brunch](https://github.com/kazzkiq/svelte-brunch) - Brunch plugin
 - [sveltejs-brunch](https://github.com/StarpTech/sveltejs-brunch) – Another brunch plugin
 - [rules_svelte](https://github.com/thelgevold/rules_svelte) - Bazel Rules
-- [svelte-phonegap](https://github.com/lpshanley/svelte-phonegap) - Svelte Phonegap Wrapper ( Hybrid Mobile Apps )
+- [svelte-phonegap](https://github.com/lpshanley/svelte-phonegap) - Phonegap Wrapper for Hybrid Mobile Apps
 
 ### Preprocessors
 
