@@ -39,3 +39,4 @@ Community maintained:
 ## Editor extensions
 
 - [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
+- [evanleck/vim-svelte](https://github.com/evanleck/vim-svelte)
