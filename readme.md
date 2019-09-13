@@ -39,3 +39,4 @@ Community maintained:
 ## Editor extensions
 
 - [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
+- [svelte (JetBrains Plugin)](https://plugins.jetbrains.com/plugin/12375-svelte)
