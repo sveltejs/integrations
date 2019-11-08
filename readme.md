@@ -31,9 +31,10 @@ Community maintained:
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
 
 
-## Linting
+## Linting and formatting
 
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)
+- [prettier-plugin-svelte](https://github.com/UnwrittenFun/prettier-plugin-svelte)
 
 
 ## Editor extensions
