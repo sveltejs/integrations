@@ -5,7 +5,7 @@
 
 Officially maintained:
 
-- [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte)
+- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte)
 - [svelte-loader](https://github.com/sveltejs/svelte-loader)
 
 Community maintained:
