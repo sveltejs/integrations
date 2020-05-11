@@ -17,6 +17,8 @@ Community maintained:
 - [meteor-svelte](https://github.com/meteor-svelte/meteor-svelte) - Meteor plugin
 - [sveltejs-brunch](https://github.com/StarpTech/sveltejs-brunch) – Brunch plugin
 - [rules_svelte](https://github.com/thelgevold/rules_svelte) - Bazel Rules
+- [rollup-plugin-svelte-hot](https://github.com/rixo/rollup-plugin-svelte-hot) - Rollup plugin + HMR
+- [svelte-loader-hot](https://github.com/rixo/svelte-loader-hot) - Webpack loader + HMR
 
 
 ### Preprocessors
