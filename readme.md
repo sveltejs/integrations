@@ -3,13 +3,8 @@
 
 ## Bundler plugins
 
-Officially maintained:
-
-- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte)
-- [svelte-loader](https://github.com/sveltejs/svelte-loader)
-
-Community maintained:
-
+- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) (**official**)
+- [svelte-loader](https://github.com/sveltejs/svelte-loader) (**official**)
 - [parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Parcel plugin
 - [sveltify](https://github.com/tehshrike/sveltify) - Browserify transform
 - [gulp-svelte](https://github.com/shinnn/gulp-svelte) - gulp plugin
@@ -32,12 +27,12 @@ Community maintained:
 
 ## Linting and formatting
 
-- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)
+- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) (**official**)
 - [prettier-plugin-svelte](https://github.com/UnwrittenFun/prettier-plugin-svelte)
 
 
 ## Editor extensions
 
-- [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
+- [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) (**official**)
 - [IntelliJ (WebStorm)](https://plugins.jetbrains.com/plugin/12375-svelte)
 - [Sublime Text: Svelte Syntax Highlighting](https://packagecontrol.io/packages/Svelte)
