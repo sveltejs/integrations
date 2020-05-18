@@ -1,6 +1,5 @@
 # Svelte integrations
 
-
 ## Bundler plugins
 
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) (**official**)
@@ -15,7 +14,6 @@
 - [rollup-plugin-svelte-hot](https://github.com/rixo/rollup-plugin-svelte-hot) - Rollup plugin + HMR
 - [svelte-loader-hot](https://github.com/rixo/svelte-loader-hot) - Webpack loader + HMR
 
-
 ### Preprocessors
 
 - [svelte-preprocess](https://github.com/kaisermann/svelte-preprocess) - Supports PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, and Pug.
@@ -23,7 +21,6 @@
 - [modular-css](https://github.com/tivac/modular-css/tree/master/packages/svelte)
 - [PostCSS](https://github.com/TehShrike/svelte-preprocess-postcss)
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
-
 
 ## Linting and formatting
 
@@ -38,3 +35,9 @@
 - [Sublime Text: Svelte Syntax Highlighting](https://packagecontrol.io/packages/Svelte)
 - [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
 - [evanleck/vim-svelte](https://github.com/evanleck/vim-svelte)
+
+## Communities
+
+- [svelte discord](https://svelte.dev/chat) (**official**)
+- [svelte-society](https://github.com/svelte-society)
+- [russian community](https://t.me/sveltejs)
