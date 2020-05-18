@@ -3,28 +3,22 @@
 
 ## Bundler plugins
 
-Officially maintained:
-
-- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte)
-- [svelte-loader](https://github.com/sveltejs/svelte-loader)
-
-Community maintained:
-
+- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) (**official**)
+- [svelte-loader](https://github.com/sveltejs/svelte-loader) (**official**)
 - [parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Parcel plugin
 - [sveltify](https://github.com/tehshrike/sveltify) - Browserify transform
 - [gulp-svelte](https://github.com/shinnn/gulp-svelte) - gulp plugin
 - [metalsmith-svelte](https://github.com/shinnn/metalsmith-svelte) - Metalsmith plugin
-- [system-svelte](https://github.com/CanopyTax/system-svelte) - System.js loader
 - [meteor-svelte](https://github.com/meteor-svelte/meteor-svelte) - Meteor plugin
-- [svelte-ruby](https://github.com/bordeeinc/svelte-ruby) - Ruby Gem wrapper for the compiler
-- [svelte-rack](https://github.com/bordeeinc/svelte-rack) - Rack middleware
-- [svelte-brunch](https://github.com/kazzkiq/svelte-brunch) - Brunch plugin
-- [sveltejs-brunch](https://github.com/StarpTech/sveltejs-brunch) – Another brunch plugin
+- [sveltejs-brunch](https://github.com/StarpTech/sveltejs-brunch) – Brunch plugin
 - [rules_svelte](https://github.com/thelgevold/rules_svelte) - Bazel Rules
+- [rollup-plugin-svelte-hot](https://github.com/rixo/rollup-plugin-svelte-hot) - Rollup plugin + HMR
+- [svelte-loader-hot](https://github.com/rixo/svelte-loader-hot) - Webpack loader + HMR
 
 
 ### Preprocessors
 
+- [svelte-preprocess](https://github.com/kaisermann/svelte-preprocess) - Supports PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, and Pug.
 - [Less](https://github.com/ls-age/svelte-preprocess-less)
 - [modular-css](https://github.com/tivac/modular-css/tree/master/packages/svelte)
 - [PostCSS](https://github.com/TehShrike/svelte-preprocess-postcss)
@@ -33,13 +27,15 @@ Community maintained:
 
 ## Linting and formatting
 
-- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3)
+- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) (**official**)
 - [prettier-plugin-svelte](https://github.com/UnwrittenFun/prettier-plugin-svelte)
 
 
 ## Editor extensions
 
-- [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
+- [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) (**official**)
+- [evanleck/vim-svelte](https://github.com/evanleck/vim-svelte)
 - [IntelliJ (WebStorm)](https://plugins.jetbrains.com/plugin/12375-svelte)
 - [Sublime Text: Svelte Syntax Highlighting](https://packagecontrol.io/packages/Svelte)
+- [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
 - [vim-svelte-plugin: Vim syntax and indent plugin for .svelte files](https://github.com/leafOfTree/vim-svelte-plugin)
