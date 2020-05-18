@@ -31,6 +31,7 @@
 ## Editor extensions
 
 - [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) (**official**)
+- [evanleck/vim-svelte](https://github.com/evanleck/vim-svelte)
 - [IntelliJ (WebStorm)](https://plugins.jetbrains.com/plugin/12375-svelte)
 - [Sublime Text: Svelte Syntax Highlighting](https://packagecontrol.io/packages/Svelte)
 - [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
@@ -41,3 +42,4 @@
 - [svelte discord](https://svelte.dev/chat) (**official**)
 - [svelte-society](https://github.com/svelte-society)
 - [russian community](https://t.me/sveltejs)
+- [vim-svelte-plugin: Vim syntax and indent plugin for .svelte files](https://github.com/leafOfTree/vim-svelte-plugin)
