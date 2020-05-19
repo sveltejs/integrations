@@ -1,5 +1,11 @@
 # Svelte integrations
 
+## Templates (boilerplates)
+
+- [template](https://github.com/sveltejs/template) (**official**) - Template for building basic applications with Svelte
+- [component-template](https://github.com/sveltejs/component-template) (**official**) - A base for building shareable Svelte components
+- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable Svelte 3 components
+
 ## Bundler plugins
 
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) (**official**)
