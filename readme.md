@@ -36,7 +36,7 @@
 
 ### Preprocessors
 
-- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - (**official**)
+- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) (**official**)
   - Supports PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, and Pug.
 - [Less](https://github.com/ls-age/svelte-preprocess-less)
 - [modular-css](https://github.com/tivac/modular-css/tree/master/packages/svelte)
