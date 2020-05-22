@@ -48,6 +48,14 @@
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) (**official**)
 - [prettier-plugin-svelte](https://github.com/UnwrittenFun/prettier-plugin-svelte)
 
+## Third-party Tooling
+
+- [svelte-ts](https://github.com/avantci/svelte-ts)
+  - Bazel Support
+  - Generation of Svelte component declarations
+  - TypeScript support in template tags
+  - (WIP) Template type checking support
+
 ## Editor extensions
 
 - [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) (**official**)
