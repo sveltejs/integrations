@@ -46,7 +46,12 @@
 ## Linting and formatting
 
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) (**official**)
-- [prettier-plugin-svelte](https://github.com/UnwrittenFun/prettier-plugin-svelte)
+- [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) (**official**)
+  - Syntax formatting for Svelte
+- [svelte-check](https://www.npmjs.com/package/svelte-check) (**official**)
+  - Detects unused css
+  - Adds Svelte A11y hints
+  - Provides JavaScript/TypeScript diagnostics
 
 ## Third-party Tooling
 
