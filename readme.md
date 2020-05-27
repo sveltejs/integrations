@@ -65,7 +65,9 @@
   - Vim syntax and indent plugin for .svelte files
   - Supports Less/Sass/Scss, Pug, Coffee, TypeScript.
   - A builtin foldexpr fold method.
-  - emmet-vim HTML/CSS/JavaScript filetype detection.  
+  - emmet-vim HTML/CSS/JavaScript filetype detection.
+- [web-mode.el](https://github.com/fxbois/web-mode)
+  - Emacs major mode including support for Svelte
 - [IntelliJ (WebStorm)](https://plugins.jetbrains.com/plugin/12375-svelte)
 - [Sublime Text: Svelte Syntax Highlighting](https://packagecontrol.io/packages/Svelte)
 - [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
