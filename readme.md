@@ -75,7 +75,6 @@
   - Emacs major mode including support for Svelte
 - [IntelliJ (WebStorm)](https://plugins.jetbrains.com/plugin/12375-svelte)
 - [Sublime Text: Svelte Syntax Highlighting](https://packagecontrol.io/packages/Svelte)
-- [svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)
 
 ## Communities
 
