@@ -8,6 +8,8 @@
   - A base for building shareable Svelte components
 - [svelte-component-template](https://github.com/YogliB/svelte-component-template)
   - A base for building shareable Svelte 3 components
+- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa)
+  - A starter template for PWAs based in the official Template
 
 ## Bundler plugins
 
