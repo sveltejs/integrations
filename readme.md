@@ -11,6 +11,31 @@
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa)
   - A starter template for PWAs based in the official Template
 
+### Sapper templates (boilerplates)
+
+- [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) (**official**)
+  - The default Sapper template, available for Rollup
+- [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) (**official**)
+  - The default Sapper template, available for webpack
+- [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template)
+  - A template that includes Sapper for Svelte, Firebase functions and hosting, TypeScript and TypeGraphQL, Tailwind CSS, ESLint, and automatic building and deployment with GitHub Actions
+- [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template)
+  - The default Sapper template with mdsvex
+- [sapper-mdsvex-template-webpack](https://github.com/shiryel/sapper-mdsvex-template-webpack)
+  - The default Sapper template with mdsvex for webpack
+- [sapper-postcss-template](https://github.com/babichjacob/sapper-postcss-template)
+  - A template that includes Sapper for Svelte and PostCSS preprocessing with Tailwind CSS
+- [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template)
+  - The default Sapper template with Tailwind CSS
+- [sapper-template-firebase](https://github.com/nhristov/sapper-template-firebase)
+  - Starter Rollup template for Sapper apps with Firebase functions, PostCSS, PurgeCSS, CSSNano, Tailwind CSS, and svelte-preprocess
+- [sapper-template-rollup](https://github.com/nhristov/sapper-template-rollup)
+  - Starter Rollup template for Sapper apps using PostCSS, PurgeCSS, CSSNano, Tailwind CSS, and svelte-preprocess
+- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template)
+  - A template that includes Sapper for Svelte, TypeScript preprocessing, and a GraphQL server through TypeGraphQL 
+- [SENT-template](https://github.com/Zimtir/SENT-template)
+  - SENT (Sapper Express Node Template) and other tools
+
 ## Bundler plugins
 
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) (**official**)
