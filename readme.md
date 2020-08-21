@@ -98,6 +98,8 @@
   - Supports Less/Sass/Scss, Pug, Coffee, TypeScript.
   - A builtin foldexpr fold method.
   - emmet-vim HTML/CSS/JavaScript filetype detection.
+- [coc-svelte](https://github.com/coc-extensions/coc-svelte)
+  - All of the above, also utilises the svelte language server
 - [web-mode.el](https://github.com/fxbois/web-mode)
   - Emacs major mode including support for Svelte
 - [IntelliJ (WebStorm)](https://plugins.jetbrains.com/plugin/12375-svelte)
