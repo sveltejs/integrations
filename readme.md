@@ -10,6 +10,8 @@
   - A base for building shareable Svelte 3 components
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa)
   - A starter template for PWAs based in the official Template
+- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit)
+  - A starter template integrating Redux-Toolkit with Svelte.
 
 ### Sapper templates (boilerplates)
 
