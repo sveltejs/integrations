@@ -12,6 +12,8 @@
   - A starter template for PWAs based in the official Template
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit)
   - A starter template integrating Redux-Toolkit with Svelte.
+- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind)
+  - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
 
 ### Sapper templates (boilerplates)
 
