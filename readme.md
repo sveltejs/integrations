@@ -14,6 +14,8 @@
   - A starter template integrating Redux-Toolkit with Svelte.
 - [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind)
   - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
+- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template)
+  - Starter template with TS activated, and ESLint and Prettier working together.
 
 ### Sapper templates (boilerplates)
 
