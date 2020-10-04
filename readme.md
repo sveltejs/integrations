@@ -18,6 +18,10 @@
   - Starter template with TS activated, and ESLint and Prettier working together.
 - [svelte-bulma-template](https://github.com/manuel3108/svelte-bulma-template)
   - Starter template with Bulma configured.
+- [svelte-tailwind-i18n-template](https://github.com/Los-Crackitos/svelte-tailwind-i18n-template)
+  - Starter with Tailwind CSS, PostCSS and i18n internationalization preconfigured.
+- [svelte-flask](https://github.com/SyntaxRules/svelte-flask)
+  - A template for building with svelte, and using the flask webserver and routes.
 
 ### Sapper templates (boilerplates)
 
@@ -43,6 +47,8 @@
   - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
 - [SENT-template](https://github.com/Zimtir/SENT-template)
   - SENT (Sapper Express Node Template) and other tools.
+- [sapper-typescript-esbuild-template](https://github.com/tommywalkie/sapper-typescript-esbuild-template)
+  - Starter template with Sapper, ESBuild and TypeScript.
 
 ## Bundler plugins
 
