@@ -74,6 +74,8 @@
 - [svelte-loader-hot](https://github.com/rixo/svelte-loader-hot)
   - Webpack loader
   - HMR
+- [svite](https://github.com/dominikg/svite)
+  - Svelte + Vite = Sweet! 
 
 ### Preprocessors
 
