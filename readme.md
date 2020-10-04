@@ -16,6 +16,8 @@
   - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template)
   - Starter template with TS activated, and ESLint and Prettier working together.
+- [svelte-bulma-template](https://github.com/manuel3108/svelte-bulma-template)
+  - Starter template with Bulma configured.
 - [svelte-tailwind-i18n-template](https://github.com/Los-Crackitos/svelte-tailwind-i18n-template)
   - Starter with Tailwind CSS, PostCSS and i18n internationalization preconfigured.
 - [svelte-flask](https://github.com/SyntaxRules/svelte-flask)
