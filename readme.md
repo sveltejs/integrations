@@ -16,6 +16,8 @@
   - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template)
   - Starter template with TS activated, and ESLint and Prettier working together.
+- [svelte-flask](https://github.com/SyntaxRules/svelte-flask)
+  - A template for building with svelte, and using the flask webserver and routes.
 
 ### Sapper templates (boilerplates)
 
