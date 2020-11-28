@@ -49,6 +49,8 @@
   - SENT (Sapper Express Node Template) and other tools.
 - [sapper-typescript-esbuild-template](https://github.com/tommywalkie/sapper-typescript-esbuild-template)
   - Starter template with Sapper, ESBuild and TypeScript.
+- [sapper-typescript-graphql-tailwindcss-template](https://github.com/mscofield0/sapper-typescript-graphql-tailwindcss-template)
+  - Template that includes Sapper, TypeScript preprocessing, Tailwind CSS, and a GraphQL server through TypeGraphQL.
 
 ## Bundler plugins
 
