@@ -49,6 +49,8 @@
   - SENT (Sapper Express Node Template) and other tools.
 - [sapper-typescript-esbuild-template](https://github.com/tommywalkie/sapper-typescript-esbuild-template)
   - Starter template with Sapper, ESBuild and TypeScript.
+- [sapper-typescript-tailwindcss-template](https://github.com/mscofield0/sapper-typescript-tailwindcss-template)
+  - Template that includes Sapper, TypeScript preprocessing and Tailwind CSS.
 
 ## Bundler plugins
 
@@ -76,6 +78,8 @@
   - HMR
 - [svite](https://github.com/dominikg/svite)
   - Svelte + Vite = Sweet! 
+- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte)
+  - esbuild plugin
 
 ### Preprocessors
 
@@ -85,6 +89,8 @@
 - [modular-css](https://github.com/tivac/modular-css/tree/master/packages/svelte)
 - [PostCSS](https://github.com/TehShrike/svelte-preprocess-postcss)
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
+- [svelte-preprocess-css-hash](https://github.com/jiangfengming/svelte-preprocess-css-hash)
+  - Provides a mechanism to suffix css class names with a hash to avoid conflicts.
 - [svelte-preprocess-html-asset](https://github.com/jiangfengming/svelte-preprocess-html-asset)
 
 ## Linting and formatting
