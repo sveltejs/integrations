@@ -49,6 +49,8 @@
   - SENT (Sapper Express Node Template) and other tools.
 - [sapper-typescript-esbuild-template](https://github.com/tommywalkie/sapper-typescript-esbuild-template)
   - Starter template with Sapper, ESBuild and TypeScript.
+- [sapper-typescript-tailwindcss-template](https://github.com/mscofield0/sapper-typescript-tailwindcss-template)
+  - Template that includes Sapper, TypeScript preprocessing and Tailwind CSS.
 
 ## Bundler plugins
 
