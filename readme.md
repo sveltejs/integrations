@@ -91,6 +91,7 @@
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
 - [svelte-preprocess-css-hash](https://github.com/jiangfengming/svelte-preprocess-css-hash)
   - Provides a mechanism to suffix css class names with a hash to avoid conflicts.
+- [svelte-preprocess-html-asset](https://github.com/jiangfengming/svelte-preprocess-html-asset)
 
 ## Linting and formatting
 
