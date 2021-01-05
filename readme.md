@@ -76,6 +76,8 @@
   - HMR
 - [svite](https://github.com/dominikg/svite)
   - Svelte + Vite = Sweet! 
+- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte)
+  - esbuild plugin
 
 ### Preprocessors
 
