@@ -86,7 +86,7 @@
 - [PostCSS](https://github.com/TehShrike/svelte-preprocess-postcss)
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
 - [svelte-preprocess-css-hash](https://github.com/jiangfengming/svelte-preprocess-css-hash)
-  - Passing hashed css class name to child component. It is used to avoid class name conflicts.
+  - Provides a mechanism to suffix css class names with a hash to avoid conflicts.
 
 ## Linting and formatting
 
