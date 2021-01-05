@@ -85,6 +85,7 @@
 - [modular-css](https://github.com/tivac/modular-css/tree/master/packages/svelte)
 - [PostCSS](https://github.com/TehShrike/svelte-preprocess-postcss)
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
+- [svelte-preprocess-html-asset](https://github.com/jiangfengming/svelte-preprocess-html-asset)
 
 ## Linting and formatting
 
