@@ -85,6 +85,8 @@
 - [modular-css](https://github.com/tivac/modular-css/tree/master/packages/svelte)
 - [PostCSS](https://github.com/TehShrike/svelte-preprocess-postcss)
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
+- [svelte-preprocess-css-hash](https://github.com/jiangfengming/svelte-preprocess-css-hash)
+  - Provides a mechanism to suffix css class names with a hash to avoid conflicts.
 
 ## Linting and formatting
 
