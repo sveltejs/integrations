@@ -46,7 +46,7 @@
 - [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template)
   - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
 - [SENT-template](https://github.com/Zimtir/SENT-template)
-  - SENT (Sapper Express Node Template) is a small subframework with tools for full development flow like Tests, Docker, Linters, Component Library, Security, TypeScript and other tools)
+  - A small subframework with tools for full development flow like Tests, Docker, Linters, Component Library, Security, TypeScript and other tools)
 - [sapper-typescript-esbuild-template](https://github.com/tommywalkie/sapper-typescript-esbuild-template)
   - Starter template with Sapper, ESBuild and TypeScript.
 
