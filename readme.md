@@ -23,7 +23,7 @@
 - [svelte-flask](https://github.com/SyntaxRules/svelte-flask)
   - A template for building with svelte, and using the flask webserver and routes.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr)
-  - A Svelte project template with a powerful router, SSR (Server-Side Rendering), CSR (Client-Side Rendering), HMR (Hot Module Replacement), `<link rel="preload">` directives, and other nice features.
+  - A project template demonstrating usage of the [svelte-pilot](https://github.com/jiangfengming/svelte-pilot) router with Vite. svelte-pilot uses a config file based approach (like vue-router)
 
 ### Sapper templates (boilerplates)
 
