@@ -23,7 +23,12 @@
 - [svelte-flask](https://github.com/SyntaxRules/svelte-flask)
   - A template for building with svelte, and using the flask webserver and routes.
 
-### Sapper templates (boilerplates)
+### SvelteKit
+
+- [Svelte Adders](https://github.com/svelte-add/svelte-adders#-sveltekit)
+  - Easily add PostCSS, Tailwind CSS, mdsvex, Firebase, GraphQL, or Bulma to your SvelteKit project
+
+### Sapper
 
 - [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) (**official**)
   - The default Sapper template, available for Rollup.
@@ -56,38 +61,32 @@
 
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) (**official**)
 - [svelte-loader](https://github.com/sveltejs/svelte-loader) (**official**)
+- [svite](https://github.com/svitejs/svite)
+  - Svelte + Vite = Sweet! 
+- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte)
+  - esbuild plugin
+- [rollup-plugin-svelte-hot](https://github.com/rixo/rollup-plugin-svelte-hot)
+  - Rollup plugin
+  - HMR
 - [parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte)
   - Parcel plugin
 - [sveltify](https://github.com/tehshrike/sveltify)
   - Browserify transform
 - [gulp-svelte](https://github.com/shinnn/gulp-svelte)
   - gulp plugin
-- [metalsmith-svelte](https://github.com/shinnn/metalsmith-svelte)
-  - Metalsmith plugin
 - [meteor-svelte](https://github.com/meteor-svelte/meteor-svelte)
   - Meteor plugin
 - [sveltejs-brunch](https://github.com/StarpTech/sveltejs-brunch)
   - Brunch plugin
 - [rules_svelte](https://github.com/thelgevold/rules_svelte)
   - Bazel Rules
-- [rollup-plugin-svelte-hot](https://github.com/rixo/rollup-plugin-svelte-hot)
-  - Rollup plugin
-  - HMR
-- [svelte-loader-hot](https://github.com/rixo/svelte-loader-hot)
-  - Webpack loader
-  - HMR
-- [svite](https://github.com/dominikg/svite)
-  - Svelte + Vite = Sweet! 
-- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte)
-  - esbuild plugin
 
 ### Preprocessors
 
 - [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) (**official**)
   - Supports PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, and Pug.
 - [Less](https://github.com/ls-age/svelte-preprocess-less)
-- [modular-css](https://github.com/tivac/modular-css/tree/master/packages/svelte)
-- [PostCSS](https://github.com/TehShrike/svelte-preprocess-postcss)
+- [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte)
 - [Sass](https://github.com/ls-age/svelte-preprocess-sass)
 - [svelte-preprocess-css-hash](https://github.com/jiangfengming/svelte-preprocess-css-hash)
   - Provides a mechanism to suffix css class names with a hash to avoid conflicts.
@@ -102,14 +101,6 @@
   - Detects unused css
   - Adds Svelte A11y hints
   - Provides JavaScript/TypeScript diagnostics
-
-## Third-party Tooling
-
-- [svelte-ts](https://github.com/avantci/svelte-ts)
-  - Bazel Support
-  - Generation of Svelte component declarations
-  - TypeScript support in template tags
-  - (WIP) Template type checking support
 
 ## Editor extensions
 
