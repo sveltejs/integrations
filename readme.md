@@ -27,6 +27,8 @@
 
 - [Svelte Adders](https://github.com/svelte-add/svelte-adders#-sveltekit)
   - Easily add PostCSS, Tailwind CSS, mdsvex, Firebase, GraphQL, or Bulma to your SvelteKit project
+- [Sveltetron 9000](https://github.com/tejasag/sveltetron-9000)
+  - SvelteKit template with TailwindCSS, Storybook, TypeScript and Sass.
 
 ### Sapper
 
