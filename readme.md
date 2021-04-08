@@ -30,7 +30,7 @@
 - [Sveltetron 9000](https://github.com/tejasag/sveltetron-9000)
   - SvelteKit template with TailwindCSS, Storybook, TypeScript and Sass.
 - [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter)
-  - SvelteKit Starter template with Typescript, Postcss, scss, TailwindCSS, Storybook, husky, eslint
+  - SvelteKit Starter template with Typescript, Postcss, scss, TailwindCSS, Storybook, husky, and eslint.
 
 ### Sapper
 
