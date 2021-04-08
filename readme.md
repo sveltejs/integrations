@@ -29,6 +29,8 @@
   - Easily add PostCSS, Tailwind CSS, mdsvex, Firebase, GraphQL, or Bulma to your SvelteKit project
 - [Sveltetron 9000](https://github.com/tejasag/sveltetron-9000)
   - SvelteKit template with TailwindCSS, Storybook, TypeScript and Sass.
+- [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter)
+  - SvelteKit Starter template with Typescript, Postcss, scss, TailwindCSS, Storybook, husky, eslint and Scalable project structure already setup. User will just need to use this starter template and they will get all the setup done for them.
 
 ### Sapper
 
