@@ -22,6 +22,8 @@
   - Starter with Tailwind CSS, PostCSS and i18n internationalization preconfigured.
 - [svelte-flask](https://github.com/SyntaxRules/svelte-flask)
   - A template for building with svelte, and using the flask webserver and routes.
+- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr)
+  - A project template demonstrating usage of the [svelte-pilot](https://github.com/jiangfengming/svelte-pilot) router with Vite. svelte-pilot uses a config file based approach (like vue-router)
 
 ### SvelteKit Adders
 
