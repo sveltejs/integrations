@@ -23,10 +23,15 @@
 - [svelte-flask](https://github.com/SyntaxRules/svelte-flask)
   - A template for building with svelte, and using the flask webserver and routes.
 
-### SvelteKit
+### SvelteKit Adders
 
 - [Svelte Adders](https://github.com/svelte-add/svelte-adders#-sveltekit)
-  - Easily add PostCSS, Tailwind CSS, mdsvex, Firebase, GraphQL, or Bulma to your SvelteKit project
+  - Easily add PostCSS, Tailwind CSS, Firebase, GraphQL, mdsvex, Bulma, and more to your new SvelteKit project
+
+### SvelteKit Templates
+
+Please note that we recommend adders instead of templates in most cases. Adders make it easy to mix and match libraries and stay more up-to-date with the official SvelteKit template. However, since SvelteKit is new and adders don't exist for all libraries yet, these templates may provide helpful examples for some libraries.
+
 - [Sveltetron 9000](https://github.com/tejasag/sveltetron-9000)
   - SvelteKit template with TailwindCSS, Storybook, TypeScript and Sass.
 - [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter)
