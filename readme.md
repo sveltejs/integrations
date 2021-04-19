@@ -35,9 +35,9 @@
 Please note that we recommend adders instead of templates in most cases. Adders make it easy to mix and match libraries and stay more up-to-date with the official SvelteKit template. However, since SvelteKit is new and adders don't exist for all libraries yet, these templates may provide helpful examples for some libraries.
 
 - [Sveltetron 9000](https://github.com/tejasag/sveltetron-9000)
-  - SvelteKit template with TailwindCSS, Storybook, TypeScript and Sass.
+  - SvelteKit Starter template with TypeScript, TailwindCSS, Storybook and Sass.
 - [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter)
-  - SvelteKit Starter template with Typescript, Postcss, scss, TailwindCSS, Storybook, husky, and eslint.
+  - SvelteKit Starter template with Typescript, TailwindCSS, Storybook, Postcss, scss, husky and eslint.
 
 ### Sapper
 
