@@ -38,6 +38,8 @@ Please note that we recommend adders instead of templates in most cases. Adders 
   - SvelteKit template with TailwindCSS, Storybook, TypeScript and Sass.
 - [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter)
   - SvelteKit Starter template with Typescript, Postcss, scss, TailwindCSS, Storybook, husky, and eslint.
+- [sveltekit-stripe](https://github.com/srmullen/sveltekit-stripe)
+  - SvelteKit template with Stripe Checkout and Typescript.
 
 ### Sapper
 
