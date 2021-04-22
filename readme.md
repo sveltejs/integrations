@@ -40,6 +40,8 @@ Please note that we recommend adders instead of templates in most cases. Adders 
   - SvelteKit Starter template with Typescript, Postcss, scss, TailwindCSS, Storybook, husky, and eslint.
 - [SvelteKit Koa](https://github.com/kaladivo/svelte-kit-koa-boilerplate)
   - SvelteKit boilerplate with Koa for building backend API, Typescript support, Docker support
+- [sveltekit Stripe](https://github.com/srmullen/sveltekit-stripe)
+  - SvelteKit template with Stripe Checkout and Typescript.
 
 ### Sapper
 
