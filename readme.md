@@ -133,6 +133,8 @@ Please note that we recommend adders instead of templates in most cases. Adders 
   - Emacs major mode including support for Svelte
 - [IntelliJ (WebStorm)](https://plugins.jetbrains.com/plugin/12375-svelte)
 - [Sublime Text: Svelte Syntax Highlighting](https://packagecontrol.io/packages/Svelte)
+- [SvelteNova](https://github.com/laosb/SvelteNova)
+  - Svelte language support for Nova Editor by Panic.
 
 ## Communities
 
