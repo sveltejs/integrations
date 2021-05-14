@@ -42,6 +42,8 @@ Please note that we recommend adders instead of templates in most cases. Adders 
   - SvelteKit boilerplate with Koa for building backend API, Typescript support, Docker support
 - [SvelteKit Stripe](https://github.com/srmullen/sveltekit-stripe)
   - SvelteKit template with Stripe Checkout and Typescript.
+- [SvelteKit MDsveX Blog](https://github.com/mvasigh/sveltekit-mdsvex-blog)
+  - A minimalistic blog template built with SvelteKit and MDsveX
 
 ### Sapper
 
