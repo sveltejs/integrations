@@ -24,6 +24,8 @@
   - A template for building with svelte, and using the flask webserver and routes.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr)
   - A project template demonstrating usage of the [svelte-pilot](https://github.com/jiangfengming/svelte-pilot) router with Vite. svelte-pilot uses a config file based approach (like vue-router)
+- [svelte-scrolly](https://github.com/ONSvisual/svelte-scrolly/)
+  - A component-based rich media / scrollytelling template
 
 ### SvelteKit Adders
 
