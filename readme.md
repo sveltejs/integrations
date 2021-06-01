@@ -47,6 +47,22 @@ Please note that we recommend adders instead of templates in most cases. Adders 
 - [SvelteKit MDsveX Blog](https://github.com/mvasigh/sveltekit-mdsvex-blog)
   - A minimalistic blog template built with SvelteKit and MDsveX
 
+### SvelteKit Adapters
+
+Official adapters:
+
+- [`@sveltejs/adapter-begin`](https://github.com/sveltejs/kit/tree/master/packages/adapter-begin) — for [Begin](https://begin.com)
+- [`@sveltejs/adapter-cloudflare-workers`](https://github.com/sveltejs/kit/tree/master/packages/adapter-cloudflare-workers) — for [Cloudflare Workers](https://developers.cloudflare.com/workers/)
+- [`@sveltejs/adapter-netlify`](https://github.com/sveltejs/kit/tree/master/packages/adapter-netlify) — for [Netlify](https://netlify.com)
+- [`@sveltejs/adapter-node`](https://github.com/sveltejs/kit/tree/master/packages/adapter-node) — for creating self-contained Node apps
+- [`@sveltejs/adapter-static`](https://github.com/sveltejs/kit/tree/master/packages/adapter-static) — for prerendering your entire site as a collection of static files
+- [`@sveltejs/adapter-vercel`](https://github.com/sveltejs/kit/tree/master/packages/adapter-vercel) — for [Vercel](https://vercel.com)
+
+Community adapters:
+
+- [`svelte-adapter-firebase`](https://github.com/jthegedus/svelte-adapter-firebase) - for [Firebase](https://firebase.google.com/)
+
+
 ### Sapper
 
 - [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) (**official**)
