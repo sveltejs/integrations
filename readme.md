@@ -96,8 +96,7 @@ Community adapters:
 
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) (**official**)
 - [svelte-loader](https://github.com/sveltejs/svelte-loader) (**official**)
-- [svite](https://github.com/svitejs/svite)
-  - Svelte + Vite = Sweet! 
+- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) (**official**)
 - [esbuild-svelte](https://github.com/EMH333/esbuild-svelte)
   - esbuild plugin
 - [rollup-plugin-svelte-hot](https://github.com/rixo/rollup-plugin-svelte-hot)
