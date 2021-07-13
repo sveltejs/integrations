@@ -60,7 +60,7 @@ Official adapters:
 Community adapters:
 
 - [`svelte-adapter-firebase`](https://github.com/jthegedus/svelte-adapter-firebase) - for [Firebase](https://firebase.google.com/)
-
+- [`svelte-adapter-deno`](https://github.com/pluvial/svelte-adapter-deno) - for [Deno](https://deno.land/)
 
 ### Sapper
 
