@@ -159,3 +159,4 @@ Community adapters:
 - [svelte discord](https://svelte.dev/chat) (**official**)
 - [svelte-society](https://github.com/svelte-society)
 - [russian community](https://t.me/sveltejs)
+- [brazilian community](https://sveltebrasil.dev/)
